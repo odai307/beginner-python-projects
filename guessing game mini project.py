@@ -34,8 +34,3 @@ if remaining_attempts >= 1 and code == code_answer:
     print("Congratulatons. You guessed the password right")
 else:
     print("Sorry. You are out of tries")
-
-
-
-
-   
