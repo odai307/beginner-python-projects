@@ -61,7 +61,6 @@ while my_score < score and cpu_score < score:
             print("Scissors Scissors!")
             print(f"{my_score} - {cpu_score}")
     
-
 print(f"My Score : {my_score}  Computer Score : {cpu_score}")
 if my_score > cpu_score:
     print("Congratulations. You won!")
